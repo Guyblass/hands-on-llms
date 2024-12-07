@@ -7,4 +7,4 @@ export QDRANT_API_KEY="CGjVqhgfs2MF7WtmXr2WPeL6V3wacp9-f5sVoXhP8dFAYor91sWxeg"
 export QDRANT_API_URL="https://221dfb59-6391-4a8a-ac31-962ad3cc541a.us-east-1-0.aws.cloud.qdrant.io"
 
 # create a free account at https://beta.openai.com/ and get this value
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY="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"
